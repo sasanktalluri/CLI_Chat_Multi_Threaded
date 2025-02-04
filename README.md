@@ -1,7 +1,7 @@
 
 # Multithreaded Chat Application (Java)
 
-This is a **multithreaded chat application** implemented in Java. It allows multiple clients to connect to a server and exchange messages in real time. Each client runs in a separate thread, ensuring smooth communication.
+This is a **multithreaded chat application** implemented in Java using Socket Programming. It allows multiple clients to connect to a server and exchange messages in real time. Each client runs in a separate thread, ensuring smooth communication.
 
 ## Features
 - **Supports multiple clients simultaneously**
